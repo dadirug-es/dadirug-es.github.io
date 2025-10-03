@@ -18,5 +18,5 @@ $ ll index.html
 ## home.dadirug.es
 
 <div align="center">
-<img alt="![2025 10 02at18-20-58 home dadurig es artiga es](https://github.com/user-attachments/assets/30ca4bcb-9fd5-49a8-9bbf-1aea0d570a1d)" src="https://github.com/user-attachments/assets/30ca4bcb-9fd5-49a8-9bbf-1aea0d570a1d"/>
+<img alt="![2025.10.03-09h home.dadurig.es](https://github.com/user-attachments/assets/fcbae976-7f95-4a88-b09e-1824882a5333)" src="https://github.com/user-attachments/assets/fcbae976-7f95-4a88-b09e-1824882a5333"/>
 </div>
